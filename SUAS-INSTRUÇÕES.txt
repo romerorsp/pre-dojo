@@ -1,2 +1,8 @@
 Coloque aqui suas instruções ou comentários que ache útil/relevantes para possamos ler 
 quando estivermos avaliando a sua solução
+
+
+Não esquecer de configurar a property do maven JAVA_8_HOME
+Executar mvn clean install && amil:like-a-lol
+
+#Uma vez que o plugin amil faz parte do mesmo projeto que a tarefa solicitada, não é possível rodar mvn clean install amil:like-a-lol na primeira vez, porém, nas próximas execuções (após o plugin ser instalado no .m2/ local, a execução pode ser feita em um só comando.
