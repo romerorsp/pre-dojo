@@ -10,4 +10,5 @@ Executar mvn clean install && amil:like-a-lol
 # (após o plugin ser instalado no .m2/ local), a execução pode ser feita em um só comando.
 
 
-# amil:like-a-lol tem seu nome derivado da alusão ao jogo League Of Legends. Cujos logs (se existem) devem se aproximar do log envolvido neste processamento. =)
+# amil:like-a-lol tem seu nome derivado da alusão ao jogo League Of Legends. Cujos logs (se existem) 
+# devem se aproximar do log envolvido neste processamento. =)
